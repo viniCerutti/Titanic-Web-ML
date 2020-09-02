@@ -1,0 +1,11 @@
+.answer{
+	text-align: center;
+	font-size: 50px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+	font-size:45px;
+	margin-bottom: 45px;
+}
