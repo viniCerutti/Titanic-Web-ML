@@ -5,7 +5,42 @@
     justify-content: center;
     align-items: center;
 }
+.legend{
+	display: inline !important;
+}
 .title{
 	font-size:45px;
 	margin-bottom: 45px;
+}
+.wrap {
+   min-height: 100%;
+   height: auto !important;
+   height: 100%;
+   margin: 0 auto -60px;
+}
+.footer {
+
+  color: white;
+  position: relative;
+  bottom: 0;
+  height: 70px;
+  width: 100%;
+  background-color: rgb(63,63,63);
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+.content-wrap {
+  flex: 1;
+}
+
+html,body {
+height:100%; 
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
