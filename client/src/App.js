@@ -204,7 +204,7 @@ function App() {
       </Row>
       </div>
       <footer className="footer">
-      Create By - <a href="https://github.com/viniCerutti" target="_blank"> Vinicius Cerutti </a>
+      Created By - <a href="https://github.com/viniCerutti" target="_blank"> Vinicius Cerutti </a>
       </footer>
     </div>
   );
