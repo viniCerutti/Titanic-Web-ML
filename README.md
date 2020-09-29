@@ -1,6 +1,7 @@
 # Titanic-Web-ML
-
-![titanic_banner](./image_banner.png)
+<p align="center">
+  <img src="./image_banner.png"/>
+</p>
 
 O Objetivo deste projeto era realizar o desenvolvimento completo de um projeto de machine learning, desde a análise exploratoria de dados até o deploy do modelo de machine learning na web. Como conhecimentos obtidos: uso do react como framework de frontend e a realização do deploy do webapp com o uso do heroku. 
 
