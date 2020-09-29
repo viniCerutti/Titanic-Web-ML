@@ -184,12 +184,12 @@ function App() {
       <Row className="legend">
         <Text>
         <h5>About:</h5>
-          This is a the <a href="https://www.kaggle.com/c/titanic" target="_blank">titanic disaster</a> solution. Its purpose is to predict whether a passenger will be able to survive the disaster
+          This is a <a href="https://www.kaggle.com/c/titanic" target="_blank">titanic disaster</a> solution. This proposal predict whether a passenger will be able to survive the disaster
         </Text>
         <Text>
           <h5>Form description:</h5>
           <ul>
-            <li>Pclass - Ticket class (A proxy for socio-economic status) 1 = Upper, 2=Middle, 3=Lower</li>
+            <li>Pclass - Ticket class (A proxy for socio-economic status) 1 = Upper, 2 = Middle, 3 = Lower</li>
             <li>Fare - Ticket value</li>
             <li>Age - Age in years </li>
             <li>Sibps - Number of siblings / spouses aboard the Titanic </li>
@@ -199,7 +199,7 @@ function App() {
           </ul>
         </Text>
         <Text><h5>Algorithm:</h5>
-        Logistic regression was used as predictor with an 80% accuracy.
+        As a predictor, a logistic regression with 80% accuracy was used.
         </Text>
       </Row>
       </div>
