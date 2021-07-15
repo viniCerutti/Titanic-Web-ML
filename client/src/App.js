@@ -199,7 +199,7 @@ function App() {
           </ul>
         </Text>
         <Text><h5>Algorithm:</h5>
-        As a predictor, a logistic regression with 80% accuracy was used.
+        As a predictor, a logistic regression with 81% accuracy was used.
         </Text>
       </Row>
       </div>
